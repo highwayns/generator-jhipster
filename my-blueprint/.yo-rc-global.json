@@ -1,0 +1,10 @@
+{
+    "generator-jhipster-blueprint:0.3.0": {
+        "promptValues": {
+            "githubName": "highwayns",
+            "authorName": "Zheng Jun",
+            "authorEmail": "tei952@hotmail.com",
+            "authorUrl": "park.highwayns.com"
+        }
+    }
+}
